@@ -173,6 +173,11 @@ body {
   transform: translateY(100%);
   transition: var(--transition-2);
 }
+
+.input-wrapper .search-submit {
+  position: relative;
+}
+
 .header-top.header-hide {
   box-shadow: none;
   transform: translateY(0);
