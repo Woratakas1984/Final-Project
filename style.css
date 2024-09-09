@@ -592,7 +592,7 @@ body {
 
   .header .input-wrapper {position: relative;}
 
-  .header .search-wrapper {
+  .header .search-wrapper .search-submit {
     position: absolute;
     top: 50%;
     right: 15px;
