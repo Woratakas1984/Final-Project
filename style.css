@@ -133,8 +133,8 @@ body {
 }
 
 .header .input-wrapper,
-  .header-action-btn:not(:first-child),
-  .navbar {display: none;}
+.header-action-btn:not(:first-child),
+.navbar {display: none;}
 
 .header {
   position: relative;
